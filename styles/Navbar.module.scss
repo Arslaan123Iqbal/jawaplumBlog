@@ -9,12 +9,10 @@
     }
     .logo{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         font-size: 1.2rem;
         font-weight: bold;
-        span:nth-child(1){
-            text-decoration: underline;
-        }
+        color: black;
     }
 }
